@@ -1,7 +1,7 @@
 package com.thread.lock;
 
 /**
- * 使用关键字synchronized解决多个对象同时访问临界区的问题。
+ * 用关键字synchronized解决多个线程同时访问临界区的问题。
  * @author ASUS
  *
  */
